@@ -1,0 +1,9 @@
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\bin\Debug\Carrera_LiebreyTortuga.exe.config
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\bin\Debug\Carrera_LiebreyTortuga.exe
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\bin\Debug\Carrera_LiebreyTortuga.pdb
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\obj\Debug\Carrera_LiebreyTortuga.csprojResolveAssemblyReference.cache
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\obj\Debug\Carrera_LiebreyTortuga.Form1.resources
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\obj\Debug\Carrera_LiebreyTortuga.Properties.Resources.resources
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\obj\Debug\Carrera_LiebreyTortuga.csproj.GenerateResource.Cache
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\obj\Debug\Carrera_LiebreyTortuga.exe
+C:\Users\Paola Sandoval\Desktop\Carrera_LiebreyTortuga\Carrera_LiebreyTortuga\obj\Debug\Carrera_LiebreyTortuga.pdb
